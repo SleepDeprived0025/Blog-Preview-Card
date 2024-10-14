@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [here](https://your-live-site-url.com)
+- Live Site URL: [here](https://sleepdeprived0025.github.io/Blog-Preview-Card/)
 
 ### Built with
 
