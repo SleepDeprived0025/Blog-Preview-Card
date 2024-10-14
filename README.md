@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Website Preview](assets\images\websitepreview.png)
+![Website Preview](./assets/images/websitepreview.png)
 
 
 ### Links
