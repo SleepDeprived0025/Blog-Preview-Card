@@ -19,11 +19,11 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
+
 - CSS custom properties
 - Flexbox
 
 
 ### What I learned
 
-- Sometime you just need to clean the slate and start over
+- Sometime you just need to clean the CSS file and start over
